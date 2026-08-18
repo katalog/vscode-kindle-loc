@@ -53,6 +53,10 @@ Location math is based on a fixed bytes-per-location constant, so very large fil
 
 ## Release Notes
 
+### 0.9.3
+
+Fixed a stale repository URL and added Marketplace keywords.
+
 ### 0.9.2
 
 Rewrote the README for the Marketplace listing.

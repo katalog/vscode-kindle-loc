@@ -2,17 +2,24 @@
   "name": "kindle-loc",
   "displayName": "kindle-loc",
   "description": "A simple extension to show kindle loc for text files",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "publisher": "katalog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/katalog/kindle-loc"
+    "url": "https://github.com/katalog/vscode-kindle-loc"
   },
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "kindle",
+    "location",
+    "ebook",
+    "sideload",
+    "reading"
   ],
   "activationEvents": [ "*" ],
   "main": "./out/extension.js",

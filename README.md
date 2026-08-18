@@ -65,7 +65,7 @@ Rewrote the README for the Marketplace listing.
 
 Ongoing refinements after the initial release.
 
-### 1.0.0
+### 0.9.0
 
 Initial release.
 

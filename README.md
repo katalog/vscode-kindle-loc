@@ -22,7 +22,9 @@ This project started as a fork of [vscode-position](https://github.com/joerohde/
 
 ## Installation
 
-This extension isn't published on the VS Code Marketplace yet. To use it:
+Search for **kindle-loc** in the VS Code Extensions view, or install it from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=katalog.kindle-loc).
+
+To build and run it from source instead:
 
 ```bash
 git clone https://github.com/katalog/vscode-kindle-loc.git
@@ -50,6 +52,10 @@ This extension doesn't contribute settings to the Settings UI, but it does read 
 Location math is based on a fixed bytes-per-location constant, so very large files or non-ASCII-heavy text may cause the displayed number to drift slightly from what the actual Kindle device shows.
 
 ## Release Notes
+
+### 0.9.2
+
+Rewrote the README for the Marketplace listing.
 
 ### 0.9.1
 

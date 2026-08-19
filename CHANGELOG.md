@@ -4,6 +4,6 @@ All notable changes to the "kindle-loc" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0]
 
-- Initial release
+- Stable release — no functional changes from 0.9.3.

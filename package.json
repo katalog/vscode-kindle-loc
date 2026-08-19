@@ -2,7 +2,7 @@
   "name": "kindle-loc",
   "displayName": "kindle-loc",
   "description": "A simple extension to show kindle loc for text files",
-  "version": "0.9.3",
+  "version": "1.0.0",
   "publisher": "katalog",
   "repository": {
     "type": "git",

@@ -51,28 +51,6 @@ This extension doesn't contribute settings to the Settings UI, but it does read 
 
 Location math is based on a fixed bytes-per-location constant, so very large files or non-ASCII-heavy text may cause the displayed number to drift slightly from what the actual Kindle device shows.
 
-## Release Notes
-
-### 1.0.0
-
-Stable release — no functional changes from 0.9.3.
-
-### 0.9.3
-
-Fixed a stale repository URL and added Marketplace keywords.
-
-### 0.9.2
-
-Rewrote the README for the Marketplace listing.
-
-### 0.9.1
-
-Ongoing refinements after the initial release.
-
-### 0.9.0
-
-Initial release.
-
 ## License
 
 See [LICENSE](LICENSE).
